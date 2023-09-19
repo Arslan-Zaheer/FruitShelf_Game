@@ -1,0 +1,50 @@
+body {
+    padding: 40px 0;
+    text-align: center;
+    margin: auto;
+    background: rgba(245, 229, 1, 0.295);
+   
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+button{
+    padding: 5px 20px;
+    border-radius: 10px;
+    margin: 20px 5px;
+    max-width: fit-content;
+    max-height: fit-content;
+    font-style: bold;
+    font-size:large;
+    color:whitesmoke;
+    border: none;
+    
+}
+
+#start-btn{
+    background-color: rgb(0, 201, 10);
+}
+#play-again-btn{
+    background-color: rgb(255, 166, 0);
+
+}
+
+#apple-shelf {
+    
+    background: lightcoral;
+    border-radius: 10px;
+    height: 30px;
+    margin: 20px 40px;
+}
+
+#orange-shelf {
+    background: lightsalmon;
+    border-radius: 10px;
+    height: 30px;
+    margin: 20px 40px;
+}
